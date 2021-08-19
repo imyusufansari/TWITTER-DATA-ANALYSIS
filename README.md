@@ -11,6 +11,13 @@ Create a Spark Application that processes Twitter data.
 5. Python 3
 6. Git + GitHub
 
+# GETTING STARTED
+
+
+# FEATURES
+
+
+
 # PROBLEM STATEMENTS
 1. What are the most trending topics on twitter(With & Without hashtag).
 2. What are the trending tweets of any particular user on twitter(With & Without Historical Data). 
