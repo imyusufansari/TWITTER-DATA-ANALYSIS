@@ -25,6 +25,8 @@ Create a Spark Application that processes Twitter data.
 4. How many verified users on twitter used hashtag Olympics.
 5. Which account(User_id) has the most number of tweets(post).
 
+# Usage
+
 # REFERENCES
 * https://www.followersanalysis.com/
 * https://api.twitter.com/2/users/:id/likes
